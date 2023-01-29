@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Max
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Business and Administration and Computer Science
-- 💞️ I’m looking forward to meet expirienced data scientists to learn from them 
+- 👋 Hi, my name is Max
+- 👀 I am aspiring Data Analyst. I love Data Science!
+- 🌱 I am currently learning Business and Administration and Computer Science
+- 💞️ I am looking forward to meet expirienced professionals to learn from them 
 - 📫 How to reach me: e-mail - mmatronin@gmail.com
 
 <!---
