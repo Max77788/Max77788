@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Max
 - 👀 I am aspiring Data Analyst. I love Data Science!
-- 🌱 I am currently learning Business Administration and Computer Science
-- 💞️ I am looking forward to meet expirienced professionals of the Data Science to learn from  and cooperate with them 
+- 🌱 I am currently learning Business Administration and Computer Science in IU International University of Applied Sciences
+- 💞️ I am looking forward to contribute into business's prospering using my data skills and expand my competence in the real-world environment.
 - 📫 How to reach me: e-mail - mmatronin@gmail.com
 
 <!---
