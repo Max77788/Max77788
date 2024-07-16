@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am passionate about coding, web development, dat
 - Experience with marketing tools like Google Analytics, AdWords, and social media platforms.
 - Projects:
   - [MOM AI Restaurants Search](https://mom-ai-restaurant/ai-restaurants): A SEO-optimized platform for the search of AI-empowered restaurants
-  - [AI=nerds cooking burgers?]([https://github.com/Max77788/ProjectL](https://www.linkedin.com/groups/13059821/)): A LinkedIn group uniting tech enthusisats of food services industry.
+  - [AInerds cooking burgers?](https://www.linkedin.com/groups/13059821/): A LinkedIn group uniting tech enthusisats of food services industry.
 
 ### Blockchain Development
 - Proficient in blockchain technologies, including smart contracts, Ethereum, and decentralized applications (dApps).
