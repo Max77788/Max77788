@@ -1,4 +1,4 @@
-# Max77788's GitHub Profile
+# Max Mat's GitHub Profile
 
 Welcome to my GitHub profile! I am passionate about coding, web development, data science, product building, internet marketing, blockchain development, and mindset growth. Below is a comprehensive overview of my skills and projects.
 
